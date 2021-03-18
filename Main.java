@@ -21,7 +21,6 @@ public class Main extends EvenOdd{
 
     /**
      * constructor
-     *
      * @param number
      */
     public Main(double number) {
